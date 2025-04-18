@@ -14,3 +14,16 @@ PIN OUT
 11 - Relay PREYELLOW
 12 - IR sensor
 13 - Button
+
+
+Remote control:
+
+1 - Red
+4 - caution
+7 - Precaution 
+* - Green
+3 - Flashing Caution
+6 - Flashing Precaution
+9 - Cyles through 
+0 - “Party Mode”
+# - Aspects off
