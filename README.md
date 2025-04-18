@@ -21,7 +21,7 @@ Remote control:
 1 - Red
 4 - caution
 7 - Precaution 
-* - Green
+(*) - Green
 3 - Flashing Caution
 6 - Flashing Precaution
 9 - Cyles through 
