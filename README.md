@@ -26,4 +26,4 @@ Remote control:
 6 - Flashing Precaution
 9 - Cyles through 
 0 - “Party Mode”
-# - Aspects off
+(#) - Aspects off
